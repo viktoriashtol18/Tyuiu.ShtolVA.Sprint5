@@ -20,7 +20,7 @@ namespace Tyuiu.ShtolVA.Sprint5.Task2.V2
      
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #5 | Выполнила: Штоль В.А. | ИИПб-23-3";
+            Console.Title = "Спринт #5 | Выполнила: Штоль В.А.  | ИИПб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Задание #2                                                              *");
