@@ -22,7 +22,7 @@ namespace Tyuiu.ShtolVA.Sptint5.Task5.V26
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая берёт набор значение из                     *");
-            Console.WriteLine("* InPutDataFileTask5V26.txt и находит разницу между положительными        *");
+            Console.WriteLine("* InPutDataFileTask5V26.txt и  находит разницу между положительными        *");
             Console.WriteLine("* и отрицательными вещественными числами в файле.                         *");
             Console.WriteLine("* У вещественных значений округлить до трёх знаков после запятой.         *");
             Console.WriteLine("***************************************************************************");
